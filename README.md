@@ -1,3 +1,3 @@
-# trab01uff
+# POO-UFF
 
-Respositório para os arquivos do exercício proposto em [trab01.pdf](trab01.pdf)
+Respositório para os arquivos de exercícios e trabalhos propostos na disciplina de POO.
