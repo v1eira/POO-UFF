@@ -13,8 +13,8 @@ public class Quadrado implements CalculoArea {
     }
 
     @Override
-    public float area() {
-        float area;
+    public double area() {
+        double area;
         area = tamanhoLado * tamanhoLado;
         
         return area;

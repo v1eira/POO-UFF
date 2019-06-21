@@ -13,9 +13,9 @@ public class Circulo implements CalculoArea {
     }
 
     @Override
-    public float area() {
-        float area;
-        area = (float) (Math.PI * Math.pow(raio, 2));
+    public double area() {
+        double area;
+        area = (Math.PI * Math.pow(raio, 2));
         
         return area;
     }

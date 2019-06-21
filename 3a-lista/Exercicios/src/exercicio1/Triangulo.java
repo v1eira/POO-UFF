@@ -31,11 +31,11 @@ public class Triangulo implements CalculoArea {
     }
 
     @Override
-    public float area() {
+    public double area() {
         int semiperimetro = (ladoA + ladoB + ladoC)/2;
-        float area;
+        double area;
         
-        area = (float) Math.sqrt((semiperimetro*(semiperimetro - ladoA)*(semiperimetro - ladoB)*(semiperimetro - ladoC)));
+        area = Math.sqrt((semiperimetro*(semiperimetro - ladoA)*(semiperimetro - ladoB)*(semiperimetro - ladoC)));
         
         return area;
     }
