@@ -35,6 +35,15 @@ public class Main {
         
         controle.consultarVolume(televisao);
         controle.consultarCanal(televisao);
+        
+        controle.diminuirCanal(televisao);
+        controle.diminuirCanal(televisao);
+        controle.diminuirCanal(televisao);
+        
+        controle.consultarCanal(televisao);
+        
+        controle.trocarCanal(televisao, 560);
+        controle.consultarCanal(televisao);
     }
 
 }
