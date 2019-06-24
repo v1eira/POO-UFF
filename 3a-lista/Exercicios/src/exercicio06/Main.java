@@ -1,4 +1,4 @@
-package exercicio6;
+package exercicio06;
 
 import java.util.ArrayList;
 import java.util.Random;

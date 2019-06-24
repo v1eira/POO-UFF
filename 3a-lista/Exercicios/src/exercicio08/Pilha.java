@@ -1,4 +1,4 @@
-package exercicio8;
+package exercicio08;
 
 import java.util.Random;
 import java.util.Stack;

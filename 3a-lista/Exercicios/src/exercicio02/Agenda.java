@@ -1,4 +1,4 @@
-package exercicio2;
+package exercicio02;
 
 public class Agenda {
     private Pessoa[] pessoas = new Pessoa[10];
